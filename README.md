@@ -16,6 +16,8 @@
 
 > A project that goes from theoretic statements on randomness, to visualising the motion of a particle modelled by a normal distribution.
 
+> > [pdf view](https://github.com/alienflip/Mathematica/blob/master/BMExplore.pdf)
+
 -----
 -----
 
